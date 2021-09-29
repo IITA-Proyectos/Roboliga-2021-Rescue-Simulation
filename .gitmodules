@@ -1,0 +1,3 @@
+[submodule "RoboligaVirtual"]
+	path = RoboligaVirtual
+	url = https://github.com/gzabala/RoboligaVirtual.git
