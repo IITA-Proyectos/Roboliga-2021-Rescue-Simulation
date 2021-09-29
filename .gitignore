@@ -1,0 +1,3 @@
+# Ignorar los archivos pyc de python
+*.pyc 
+
