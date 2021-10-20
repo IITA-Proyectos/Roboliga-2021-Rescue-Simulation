@@ -7,7 +7,6 @@ Grilla = [[ 0 0 0 0 0 0 0 0 0 ]
           [ 0 0 0 0 0 0 0 1 1 ]
           [ 1 1 0 0 0 0 0 1 0 ]
           [ 0 1 0 0 0 0 0 1 1 ]
-          [ 0 1 0 0 0 0 0 0 1 ]
           [ 0 1 1 1 1 1 1 1 1 ]]
 ```
 ![Imagen del recorrido realizado](ejercicio_2.png "Recorrido en el mapa")
